@@ -44,7 +44,6 @@ A Staff Workload and Overload Management System, built to help organizations tra
 <a href="mailto:melakuadane54@gmail.com">
 <img src="https://img.shields.io/badge/EmailD14836?style=forthebadge&logo=gmail"/>
 </a>
-
 </p>
 
 <p align="center">
