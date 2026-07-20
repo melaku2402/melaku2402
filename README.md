@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Melaku Adane Banner" width="100%">
+</p>
+ 
  Hi there, I'm Melaku Adane 👋
  Full Stack Software Engineer
 
@@ -23,7 +27,6 @@ An enterprise management platform built with Next.js, designed to help organizat
 A Staff Workload and Overload Management System, built to help organizations track and balance staff workloads fairly.
 
  Let's Connect
-  ---
 
  📊 GitHub Statistics
 
