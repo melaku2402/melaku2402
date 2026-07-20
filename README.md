@@ -9,16 +9,14 @@
 I build modern, scalable web applications and enterprise software using today's leading technologies.
 </p>
 
- 🚀 About Me
+ About Me
 
-I'm a Full Stack Software Engineer based in Ethiopia 🇪🇹, focused on turning ideas into reliable, realworld products.
-
- 🔭 Currently building enterprise software
- 🌱 Deepening my knowledge of advanced Next.js and system design
- 💡 Genuinely passionate about solving realworld problems through code
- 🤝 Always open to collaborating on interesting projects
- ⚡ I care about clean code, scalable architecture, and thoughtful UI
-
+ 💻 Full Stack Software Engineer
+ 🌍 Based in Addis Ababa, Ethiopia
+ 🚀 Building enterprise web applications
+ 📚 Learning system design and cloud technologies
+ 🤝 Open to collaboration
+ ⚡ Passionate about clean code and scalable architecture
  🛠 Tech Stack
 
 <p align="center">
@@ -40,12 +38,12 @@ A Staff Workload and Overload Management System, built to help organizations tra
 
 <p align="center">
 
-<a href="https://linkedin.com/in/melaku-adane-173981378">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/melakuadane173981378">
+<img src="https://img.shields.io/badge/LinkedIn0077B5?style=forthebadge&logo=linkedin"/>
 </a>
 
 <a href="mailto:melakuadane54@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/EmailD14836?style=forthebadge&logo=gmail"/>
 </a>
 
 </p>
