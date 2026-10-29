@@ -19,11 +19,11 @@
 
   <h2>💻 About Me</h2>
 
-  <p><b>Full Stack & Mobile Engineer</b> based in Addis Ababa, Ethiopia.</p>
+  <p><b>Full Stack Software Engineer</b> based in Addis Ababa, Ethiopia.</p>
   
   <p><b>Focus:</b> Enterprise web & cross-platform mobile apps, RESTful APIs, scalable backends, and ML/AI integration.</p>
   
-  <p><b>Education & Training:</b> Software Engineering & Cyber Security background.</p>
+  <p><b>Education & Training:</b> Software Engineering & INSA Cyber Talent  background.</p>
   
   <p><b>Core Strengths:</b> System design, multi-database architecture, clean code, and cloud solutions.</p>
   
@@ -33,11 +33,9 @@
 
 ---
 
-## ⚙️ Technical Ecosystem
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,react,reactnative,nextjs,tailwind,nodejs,nestjs,express" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,reactnative,nextjs,tailwind,nodejs,nestjs,express,reactnative" alt="Languages & Frameworks" />
   </a>
   <br />
   <a href="https://skillicons.dev">
@@ -46,8 +44,6 @@
 </p>
 
 ---
-
-## 📬 Connect With Me
 
 <div align="center">
 
@@ -61,8 +57,5 @@
     <img src="https://img.shields.io/badge/GitHub_Profile-melaku2402-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=melaku2402&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
