@@ -1,8 +1,7 @@
 <div align="center">
 
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" />
-    Hi, I'm Melaku Adane
+    👋 Hi, I'm Melaku Adane
   </h1>
 
   <h3>Full-Stack Software Engineer & Systems Builder</h3>
@@ -27,13 +26,11 @@
     </a>
   </p>
 
-  <img src="https://quotes-github-readme-api.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
-
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="24" height="24" /> About Me
+## 🚀 About Me
 
 ```javascript
 const developer = {
