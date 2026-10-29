@@ -34,7 +34,7 @@
 
 - **Full Stack Software Engineer** based in Addis Ababa, Ethiopia.
 - **Focus:** Enterprise web applications, RESTful APIs, scalable backends, and ML/AI integration.
-- **Education & Training:** Software Engineering & Cyber Security background.
+- **Education & Training:** Software Engineering & INSA Cyber Talent background.
 - **Core Strengths:** System design, multi-database architecture, clean code, and cloud solutions.
 - **Open to:** Engineering opportunities, technical collaborations, and open-source contributions.
 
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,nestjs,express,flask" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,nestjs,express,flask,reactnative" alt="Languages & Frameworks" />
   </a>
   <br />
   <a href="https://skillicons.dev">
