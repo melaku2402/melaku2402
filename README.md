@@ -7,21 +7,6 @@
 
   <h3>Full-Stack Software Engineer & Systems Builder</h3>
 
-  <p>
-    Crafting high-performance enterprise web & mobile applications, scalable backend systems, and clean cloud solutions.
-  </p>
-
-</div>
-
----
-
-<div align="center">
-
-  <h2>💻 About Me</h2>
-
-  <p><b>Full Stack Software Engineer</b> based in Addis Ababa, Ethiopia.</p>
-  
-  <p><b>Focus:</b> Enterprise web & cross-platform mobile apps, RESTful APIs, scalable backends, and ML/AI integration.</p>
   
   <p><b>Education & Training:</b> Software Engineering & INSA Cyber Talent  background.</p>
   
