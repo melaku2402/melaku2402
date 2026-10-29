@@ -33,11 +33,11 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" /> About Me
 
-* **Full Stack Software Engineer** based in Addis Ababa, Ethiopia.
-* **Focus:** Enterprise web applications, scalable backend platforms, and clean cloud architecture.
-* **Education & Training:** Software Engineering & Cyber Security background.
-* **Core Strengths:** System design, clean maintainable code, and high-performance solutions.
-* **Open to:** Engineering opportunities, technical collaborations, and open-source contributions.
+- **Full Stack Software Engineer** based in Addis Ababa, Ethiopia.
+- **Focus:** Enterprise web applications, scalable backend platforms, and clean cloud architecture.
+- **Education & Training:** Software Engineering & Cyber Security background.
+- **Core Strengths:** System design, clean maintainable code, and high-performance solutions.
+- **Open to:** Engineering opportunities, technical collaborations, and open-source contributions.
 
 ---
 
@@ -45,11 +45,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,react,tailwindcss" alt="Row 1 Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,react,vite" alt="Row 1 Stack" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,flask,postgres,mongodb,docker,git" alt="Row 2 Stack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,flask,mysql,postgres,mongodb,redis" alt="Row 2 Stack" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,tailwind,vscode" alt="Row 3 Stack" />
   </a>
 </p>
 
