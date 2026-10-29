@@ -17,13 +17,14 @@
     <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Status" />
   </p>
 
-  <!-- Quick Action Badges -->
+  <!-- Clean, Perfectly Sized Action Badges -->
   <p align="center">
     <a href="mailto:melakuadane54@gmail.com">
-      <img src="https://img.shields.io/badge/Email-melakuadane54%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-melakuadane54%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/melaku2402">
-      <img src="https://img.shields.io/badge/GitHub-melaku2402-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-melaku2402-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -31,31 +32,31 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" /> About Me
+## 💻 About Me
 
 - **Full Stack Software Engineer** based in Addis Ababa, Ethiopia.
-- **Focus:** Enterprise web applications, scalable backend platforms, and clean cloud architecture.
+- **Focus:** Enterprise web applications, RESTful APIs, scalable backends, and ML/AI integration.
 - **Education & Training:** Software Engineering & Cyber Security background.
-- **Core Strengths:** System design, clean maintainable code, and high-performance solutions.
+- **Core Strengths:** System design, multi-database architecture, clean code, and cloud solutions.
 - **Open to:** Engineering opportunities, technical collaborations, and open-source contributions.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="22" height="22" /> Technical Ecosystem
+## ⚙️ Technical Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,react,tailwind" alt="Row 1 Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,nestjs,express,flask" alt="Languages & Frameworks" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,docker,git,linux" alt="Row 2 Stack" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,py,docker,git,linux" alt="Databases, ML & DevOps" />
   </a>
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" height="22" /> Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
