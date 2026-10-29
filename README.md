@@ -45,11 +45,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwindcss,nodejs,nestjs" alt="Frontend & Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,react,tailwindcss" alt="Row 1 Stack" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,flask,postgres,mysql,mongodb,prisma,docker,git" alt="Databases & DevOps Stack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,flask,postgres,mongodb,docker,git" alt="Row 2 Stack" />
   </a>
 </p>
 
