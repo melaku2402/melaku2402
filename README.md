@@ -1,46 +1,46 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Melaku Adane - Full Stack Software Engineer" width="100%" />
-</p>
+<div align="center">
 
-## About Me
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" />
+    Hi, I'm Melaku Adane
+  </h1>
 
-- Full Stack Software Engineer based in Addis Ababa, Ethiopia
-- Building enterprise web applications
-- Learning system design and cloud technologies
-- Focused on clean code and scalable architecture
-- Open to collaboration
+  <h3>Full-Stack Software Engineer & Systems Builder</h3>
 
-## Tech Stack
+  <p align="center">
+    Crafting high-performance enterprise web applications, scalable backend systems, and clean cloud solutions.
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mysql,tailwind,html,css,git,github,postman" />
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-0078D4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Status" />
+  </p>
 
-## Experience
+  <!-- Quick Action Badges -->
+  <p align="center">
+    <a href="mailto:melakuadane54@gmail.com">
+      <img src="https://img.shields.io/badge/Email-melakuadane54%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/melaku2402">
+      <img src="https://img.shields.io/badge/GitHub-melaku2402-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-### Full Stack Software Engineer, EDIT: company or client name
-*EDIT: Month Year – Present · Ethiopia*
+  <img src="https://quotes-github-readme-api.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
 
-- Built **Damot Union**, a digital platform for a farmers' cooperative union that streamlines their day-to-day operations
-- Developed **Kewakibt Enterprise Platform** with Next.js to help organizations manage their work more efficiently
-- Built **[SWOMS](https://github.com/melaku2402/swoms)**, a Staff Workload and Overload Management System for tracking and balancing staff workloads fairly
-- EDIT: one more real responsibility, for example "Designed REST APIs and MySQL schemas for ..."
+</div>
 
-### EDIT: previous role, freelance work or internship
-*EDIT: Month Year – Month Year*
+---
 
-- EDIT: one real thing you built or did
-- EDIT: one real result, only if it is true
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="24" height="24" /> About Me
 
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/EDIT-YOUR-LINKEDIN-SLUG">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:melakuadane54@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">Thanks for visiting my profile!</p>
+```javascript
+const developer = {
+  name: "Melaku Adane",
+  role: "Full Stack Software Engineer",
+  location: "Addis Ababa, Ethiopia",
+  focusAreas: ["Software Architecture", "System Design", "Cloud Infrastructure"],
+  codePhilosophy: ["Clean Code", "High Performance", "Maintainability", "Scalability"],
+  currentFocus: "Deepening cloud infrastructure mastery and large-scale microservices design"
+};
