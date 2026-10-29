@@ -1,99 +1,69 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Melaku Adane - Full Stack Software Engineer" width="100%" />
+</p>
 
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="Waving Hand" />
-    Hi, I'm Melaku Adane
-  </h1>
-
-  <h3>Full-Stack Software Engineer & Systems Builder</h3>
-
-  <p align="center">
-    Crafting high-performance enterprise web applications, scalable backend systems, and clean cloud solutions.
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-0078D4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Status" />
-  </p>
-
-  <!-- Quick Action Badges -->
-  <p align="center">
-    <a href="mailto:melakuadane54@gmail.com">
-      <img src="https://img.shields.io/badge/Email-melakuadane54%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/melaku2402">
-      <img src="https://img.shields.io/badge/GitHub-melaku2402-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-</div>
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" /> About Me
-
-- **Full Stack Software Engineer** based in Addis Ababa, Ethiopia.
-- **Focus:** Enterprise web applications, scalable backend platforms, and clean cloud architecture.
-- **Education & Training:** Software Engineering & Cyber Security background.
-- **Core Strengths:** System design, clean maintainable code, and high-performance solutions.
-- **Open to:** Engineering opportunities, technical collaborations, and open-source contributions.
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="22" height="22" /> Technical Ecosystem
+<h1 align="center">Melaku Adane</h1>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,react,vite" alt="Row 1 Stack" />
+  I build enterprise web applications and scalable backend systems.<br/>
+  Based in Addis Ababa, Ethiopia.
+</p>
+
+<p align="center">
+  <a href="mailto:melakuadane54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-melakuadane54%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,flask,mysql,postgres,mongodb,redis" alt="Row 2 Stack" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,tailwind,vscode" alt="Row 3 Stack" />
+  <a href="https://linkedin.com/in/EDIT-YOUR-LINKEDIN-SLUG">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22" height="22" /> GitHub Insights
+## About
 
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=melaku2402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Melaku's GitHub Stats" height="135" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaku2402&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="135" />
-      </td>
-    </tr>
-  </table>
-
-</div>
+- Full-Stack Software Engineer with a Software Engineering and Cyber Security background
+- Focus on enterprise web applications, backend platforms and clean architecture
+- Strengths: system design, maintainable code, secure APIs
+- Open to engineering roles, collaborations and open-source contributions
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" height="22" /> Connect With Me
+## Technical Stack
 
-<div align="center">
+**Languages:** TypeScript, JavaScript, Python, HTML, CSS
+**Frontend:** Next.js, React, Vite, Tailwind CSS
+**Backend:** Node.js, NestJS, Express, Flask
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis
+**Tools:** Docker, Linux, Git, GitHub, Postman
 
-  <p>Whether you want to discuss a project, explore technical ideas, or simply connect, feel free to reach out!</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,react,vite,tailwind,nodejs,nestjs,express,flask,mysql,postgres,mongodb,redis,docker,linux,git,github,postman&perline=11" alt="Tech stack" />
+</p>
 
-  <a href="mailto:melakuadane54@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-melakuadane54%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Direct Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/melaku2402">
-    <img src="https://img.shields.io/badge/GitHub_Profile-melaku2402-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
+---
 
-  <br/><br/>
+## Experience
 
-  <img src="https://komarev.com/ghpvc/?username=melaku2402&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+### Full-Stack Software Engineer, EDIT: company or client name
+*EDIT: Month Year – Present*
 
-</div>
+- **Damot Union:** a digital platform for a farmers' cooperative union that streamlines their day-to-day operations
+- **Kewakibt Enterprise Platform:** an enterprise management platform built with Next.js
+- **[SWOMS](https://github.com/melaku2402/swoms):** a Staff Workload and Overload Management System for tracking and balancing staff workloads fairly
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melaku2402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaku2402&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top languages" height="150" />
+</p>
+
+---
+
+## Contact
+
+I'm happy to discuss projects, technical ideas or opportunities. Email me at [melakuadane54@gmail.com](mailto:melakuadane54@gmail.com).
