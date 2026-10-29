@@ -30,9 +30,7 @@
 
 </div>
 
----
-
-## 💻 About Me
+##  About Me
 
 - **Full Stack Software Engineer** based in Addis Ababa, Ethiopia.
 - **Focus:** Enterprise web applications, RESTful APIs, scalable backends, and ML/AI integration.
@@ -41,8 +39,6 @@
 - **Open to:** Engineering opportunities, technical collaborations, and open-source contributions.
 
 ---
-
-## ⚙️ Technical Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,7 +52,7 @@
 
 ---
 
-## 📬 Connect With Me
+##   Connect With Me
 
 <div align="center">
 
