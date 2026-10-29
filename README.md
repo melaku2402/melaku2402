@@ -1,7 +1,8 @@
 <div align="center">
 
   <h1>
-    👋 Hi, I'm Melaku Adane
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="Waving Hand" />
+    Hi, I'm Melaku Adane
   </h1>
 
   <h3>Full-Stack Software Engineer & Systems Builder</h3>
@@ -30,65 +31,50 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" /> About Me
 
-* 💻 **Full Stack Software Engineer** based in Addis Ababa, Ethiopia.
-* 🏗️ **Focus:** Enterprise web applications, scalable backend platforms, and clean cloud architecture.
-* 🎓 **Education & Training:** Software Engineering & Cyber Security background.
-* ⚡ **Core Strengths:** System design, clean maintainable code, and high-performance solutions.
-* 🤝 **Open to:** Engineering opportunities, technical collaborations, and open-source contributions.
+* **Full Stack Software Engineer** based in Addis Ababa, Ethiopia.
+* **Focus:** Enterprise web applications, scalable backend platforms, and clean cloud architecture.
+* **Education & Training:** Software Engineering & Cyber Security background.
+* **Core Strengths:** System design, clean maintainable code, and high-performance solutions.
+* **Open to:** Engineering opportunities, technical collaborations, and open-source contributions.
 
 ---
 
-## 🛠️ Technical Ecosystem
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="22" height="22" /> Technical Ecosystem
 
-### 💻 Languages & Frameworks
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwindcss,nodejs,nestjs,express,flask" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwindcss,nodejs,nestjs" alt="Frontend & Backend Stack" />
   </a>
-</p>
-
-### 🗄️ Databases & ORM
-<p align="left">
+  <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="Databases" />
-  </a>
-</p>
-
-### ☁️ Infrastructure, DevOps & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,postman,vscode" alt="DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=express,flask,postgres,mysql,mongodb,prisma,docker,git" alt="Databases & DevOps Stack" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Insights & Statistics
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22" height="22" /> GitHub Insights
 
 <div align="center">
 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=melaku2402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Melaku's GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=melaku2402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Melaku's GitHub Stats" height="135" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaku2402&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaku2402&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="135" />
       </td>
     </tr>
   </table>
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melaku2402&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="82%"/>
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" height="22" /> Connect With Me
 
 <div align="center">
 
